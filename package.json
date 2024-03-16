@@ -1,0 +1,24 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "recipe application",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kiyomarthi/Forkify.git"
+  },
+  "author": "Abolfazl Kiyomarthi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kiyomarthi/Forkify/issues"
+  },
+  "homepage": "https://github.com/Kiyomarthi/Forkify#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "sass": "^1.72.0"
+  }
+}
